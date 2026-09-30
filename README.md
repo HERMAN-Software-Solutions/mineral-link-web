@@ -49,7 +49,6 @@ This is a documentation-only step, so no packages are installed yet. The stack a
 
 ```
 mineral-link-web/
-├── docs/                   # Additional docs, if needed beyond this README
 ├── app/
 │   ├── (miner)/             # Pages and layout specific to the miner role
 │   ├── (buyer)/              # Pages and layout specific to the buyer role
